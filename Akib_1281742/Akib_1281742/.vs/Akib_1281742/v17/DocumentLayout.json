@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F2400-9D81-47B6-A6D5-84039CB2DA7D}|Akib_1281742\\Akib_1281742.csproj|d:\\akib\\ado project pic\\akib_1281742\\akib_1281742\\akib_1281742\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5F2400-9D81-47B6-A6D5-84039CB2DA7D}|Akib_1281742\\Akib_1281742.csproj|solutionrelative:akib_1281742\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F2400-9D81-47B6-A6D5-84039CB2DA7D}|Akib_1281742\\Akib_1281742.csproj|D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\akib_1281742\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F2400-9D81-47B6-A6D5-84039CB2DA7D}|Akib_1281742\\Akib_1281742.csproj|solutionrelative:akib_1281742\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\Akib_1281742\\MainForm.cs",
+              "RelativeDocumentMoniker": "Akib_1281742\\MainForm.cs",
+              "ToolTip": "D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\Akib_1281742\\MainForm.cs",
+              "RelativeToolTip": "Akib_1281742\\MainForm.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowIgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:13:40.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\Akib_1281742\\MainForm.cs",
+              "RelativeDocumentMoniker": "Akib_1281742\\MainForm.cs",
+              "ToolTip": "D:\\Akib\\ADO project pic\\Akib_1281742\\Akib_1281742\\Akib_1281742\\MainForm.cs [Design]",
+              "RelativeToolTip": "Akib_1281742\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:07:37.959Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
